@@ -8,8 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": {"code":200,"detailErrorCode":0,"msg":null,"errorDetail":null,"data":[]}
-  },
+  "profile":{"code":200,"detailErrorCode":0,"msg":null,"errorDetail":null,"data":[]},
   "get": [{"code":200,"detailErrorCode":0,"msg":null,"errorDetail":null,"data":[]}]
 }
