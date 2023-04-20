@@ -10,5 +10,6 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "get": {"code":200,"detailErrorCode":0,"msg":null,"errorDetail":null,"data":[]}
 }
